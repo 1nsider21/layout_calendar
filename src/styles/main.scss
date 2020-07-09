@@ -47,6 +47,7 @@ body {
       cursor: pointer;
       background-color: $bg_hovered;
       bottom: 20px;
+      transition: 0.5s;
     }
   }
 }
